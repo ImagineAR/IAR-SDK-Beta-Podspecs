@@ -24,7 +24,7 @@ Imagine AR is a native library to facilitate the addition of augmentented realit
   s.homepage         = 'https://imaginear.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Imagine AR' => 'imaginear.it@gmail.com' }
-  s.source           = { :http => 'https://github.com/ImagineAR/IAR-SDK-Binaries/blob/58ce7a92de98b6b46b2daf0dc45a251cf6815f62/IAR_NFC_SDK.zip?raw=true' }
+  s.source           = { :http => 'https://github.com/ImagineAR/IAR-SDK-Binaries/blob/d7fc1a1e4ed25693f4ce919cdbeb7bb7f66f2f92/IAR_NFC_SDK.zip?raw=true' }
   s.swift_version    = '5.3.1'
 
   s.ios.deployment_target = '12.0'
